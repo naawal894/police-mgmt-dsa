@@ -1,0 +1,3 @@
+ID      Name           Age     Crime         Years     Cell    Officer
+1       Ali            23      killer         33        121     1212           
+1       Alio           22      12             33        11      22             

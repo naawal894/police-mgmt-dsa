@@ -1,0 +1,6 @@
+ID        Name                 Rank
+1234      Alo                 3              
+1212      Saad                6              
+12345     Hashim              21             
+11        Ali                 2              
+22        Saad                44             
